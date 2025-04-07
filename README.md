@@ -1,4 +1,5 @@
-# Olympic Medal Count - Medal Counts by Country
+# Olympic Medal Count.
+Medal Counts by Country.
 
 This repository contains a Python script that calculates and displays Olympic medal counts by country. The script also saves the results to a CSV file.
 

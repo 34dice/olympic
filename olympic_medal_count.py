@@ -1,8 +1,6 @@
 # olympic_medal_count.py
 
-import pandas as pd
-
-# Sample data on Olympic medal counts by country
+# Sample data
 data = {
     "Country": ["USA", "China", "Japan", "Germany", "Russia"],
     "Gold": [39, 38, 27, 10, 20],

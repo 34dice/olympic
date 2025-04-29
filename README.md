@@ -34,7 +34,3 @@ The script `olympic_medal_count.py` performs the following tasks:
 
 - Python 3.x
 - pandas library
-
-To install the pandas library, use:
-```bash
-pip install pandas

@@ -7,6 +7,7 @@ data = {
     "Silver": [41, 32, 14, 11, 28],
     "Bronze": [33, 18, 17, 16, 23]
 }
+print(data)
 
 # Create a DataFrame from the data
 df = pd.DataFrame(data)

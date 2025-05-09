@@ -1,10 +1,10 @@
-# Olympic Medal Count.
-This repository contains a Python script that calculates and displays Olympic medal counts by country. The script also saves the results to a CSV file.
+# Olympic Medal Count
+This repository contains a Python script that calculates and displays Olympic medal counts by country. 
+The script also saves the results to a CSV file.
 
 ## Dataset
-
 The dataset includes the following columns:
-
+- **City**: The name of the city.
 - **Country**: The name of the country.
 - **Gold**: The number of gold medals won.
 - **Silver**: The number of silver medals won.

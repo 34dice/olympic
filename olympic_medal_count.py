@@ -2,7 +2,7 @@
 
 # Sample data
 
-datset = []
+datset = ['Country']
 data = {
     "Country": ["USA", "China", "Japan", "Germany", "Russia"],
     "Gold": [39, 38, 27, 10, 20],
